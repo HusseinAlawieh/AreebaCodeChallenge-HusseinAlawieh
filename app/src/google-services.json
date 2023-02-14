@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010668733909",
+    "project_id": "newsappareeba",
+    "storage_bucket": "newsappareeba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010668733909:android:553f93fc0ad336ef5ce95c",
+        "android_client_info": {
+          "package_name": "com.example.areebacodechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010668733909-bf2kloj5g6nsct77hibtf2vhhh9ua1ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDclCJHOEFU3tKqvgU7pXwgcuWSSULOHsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010668733909-bf2kloj5g6nsct77hibtf2vhhh9ua1ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

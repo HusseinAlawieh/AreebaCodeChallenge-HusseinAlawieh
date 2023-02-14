@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_english">
+
+    <fragment
+        android:id="@+id/nav_english"
+        android:name="com.example.areebacodechallenge.ui.englishNews.englishNewsFragment"
+        android:label="English News"
+        tools:layout="@layout/fragment_english_news" />
+
+    <fragment
+        android:id="@+id/nav_arabic"
+        android:name="com.example.areebacodechallenge.ui.arabicNews.arabicNewsFragment"
+        android:label="Arabic News"
+        tools:layout="@layout/fragment_arabic_news" />
+
+    <fragment
+        android:id="@+id/nav_contactus"
+        android:name="com.example.areebacodechallenge.ui.contactus.contactUsFragment"
+        android:label="Contact Us"
+        tools:layout="@layout/fragment_contactus" />
+</navigation>
